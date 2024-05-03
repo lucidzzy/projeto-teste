@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    text-shadow:2px 2px 2px 2px rgb(10, 241, 98);
+    color: rgb(64, 218, 18);
+    font-size:xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(36, 36, 34);
+    border-radius: 100%;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    line-height: 2;
+    gap: 110px;
+    color: rgb(64, 218, 18);
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+main{
+    line-height: 2;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+img{
+    width: 300px;
+    height: auto;
+}
+
